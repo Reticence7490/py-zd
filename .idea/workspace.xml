@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6395d02e-a2e2-4220-aabf-22f2ef53866a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProjectZD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/request_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/api_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/api_login_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/web_login_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/allure-results" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_api_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_web_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/excel_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/screenshot.py" afterDir="false" />
-    </list>
+    <list default="true" id="6395d02e-a2e2-4220-aabf-22f2ef53866a" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
