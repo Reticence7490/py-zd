@@ -1,0 +1,5 @@
+base_url: "https://api.example.com"
+login_endpoint: "/auth/login"
+headers:
+  content-type: "application/json"
+timeout: 10

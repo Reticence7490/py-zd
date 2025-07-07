@@ -1,0 +1,4 @@
+base_url: "https://example.com/login"
+browser: "chrome"
+timeout: 10
+headless: false
